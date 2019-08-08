@@ -64,7 +64,7 @@ https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2011-09.csv
 https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2011-10.csv
 https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2011-11.csv
 https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2011-12.csv
-https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2011-01.csv
+https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2010-01.csv
 https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2010-02.csv
 https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2010-03.csv
 https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2010-04.csv
